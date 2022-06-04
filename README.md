@@ -70,11 +70,11 @@ We have completed this project in 5 days.
 Click the name to visit their Github Profile
 
 - [Rohit Kumar Gupta](https://github.com/rg15697)
-- [Shubham Paswan]()
-- [Sai Kiran Arishanapalli]()
-- [Bharanishwaran]()
-- [Aun Mohammad]()
-- [Sachin Ingale]()
+- [Shubham Paswan](https://github.com/spaswan141)
+- [Sai Kiran Arishanapalli](https://github.com/saikiran003/)
+- [Bharanishwaran](https://github.com/Bharani619)
+- [Aun Mohammad](https://github.com/aun0545088)
+- [Sachin Ingale](https://github.com/sachiningale1998)
 
 
 ## Support
